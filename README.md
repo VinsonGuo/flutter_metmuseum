@@ -1,6 +1,6 @@
 # flutter_metmuseum
 
-A new Flutter project.
+A Museum App using [metmuseum](https://metmuseum.github.io/) api and written by Flutter.
 
 ## Getting Started
 
